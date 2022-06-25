@@ -5,9 +5,9 @@
 
 <h3 align="center">You can contact me using the links below:
 <div align="center"> 
-   <a href="https://www.linkedin.com/in/evlisouski"><img src="images/linkedin.svg" width="50" height="50" alt="Пример"></a>
-   <a href="mailto:evlisouski@gmail.com"><img src="images/gmail.svg" width="50" height="50" alt="Пример"></a>
-   <a href="https://t.me/evlisouski"><img src="images/telegram.svg" width="50" height="50" alt="Пример"></a>
+   <a href="https://www.linkedin.com/in/evlisouski"><img src="images/linkedin.svg" width="32" height="32" alt="Пример"></a>
+   <a href="mailto:evlisouski@gmail.com"><img src="images/gmail.svg" width="32" height="32" alt="Пример"></a>
+   <a href="https://t.me/evlisouski"><img src="images/telegram.svg" width="32" height="32" alt="Пример"></a>
 </div>
 
 
