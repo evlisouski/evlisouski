@@ -1,6 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/evlisouski/" target="_blank">Eduard Lisouski</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center" style="line-height: 1.5">Python developer. Looking for new opportunities and interesting projects.</h3>
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/evlisouski/" target="_blank">Eduard Lisouski</a></h1>
 
 <h3 align="center">You can contact me using the links below:
 <p style="letter-spacing: 5px">------------------------------------</p>
